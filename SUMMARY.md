@@ -92,8 +92,9 @@
 
 * [트레이닝이란?](training/what_is_training.md)
 * [트레이닝의 효과](training/training_benefit.md)
-* [트레이닝 자동 할당](training/auto_assign.md)
-* [트레이닝 수동 할당](training/setting.md)
+* [트레이닝 할당](training/assignment/README.md)
+  * [자동 할당](training/auto_assign.md)
+  * [수동 할당](training/setting.md)
 * [훈련(트레이닝) 종류](training/types/README.md)
   * [읽기훈련](training/types/reading-training.md)
     * [문장자세 읽기](training/types/sentence-masking.md)
