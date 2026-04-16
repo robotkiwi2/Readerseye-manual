@@ -2,7 +2,7 @@
 
 Anti-saccade Tracking은 Anti-saccade 검사에 대응하기 위해 고안되었습니다.
 
-본 트레이닝을 통하여 시각반응 통제력 및 집중력을 향상시킬 수 있습니다.
+본 훈련을 통하여 시각반응 통제력 및 집중력을 향상시킬 수 있습니다.
 
 ![](<../../.gitbook/assets/image (543).png>)
 

@@ -36,7 +36,7 @@ description: Visual span은 한 눈에 처리하는 단어의 수 (시각폭 vis
 
 ## 레벨 구성 <a href="#undefined-2" id="undefined-2"></a>
 
-본 트레이닝은 레벨이 올라감에 따라 글자수가 증가하고 제시시간이 짧아지며, 등장하는 글자의 난이도가 올라갑니다.
+본 훈련은 레벨이 올라감에 따라 글자수가 증가하고 제시시간이 짧아지며, 등장하는 글자의 난이도가 올라갑니다.
 
 <table data-header-hidden><thead><tr><th width="146" align="center">레벨</th><th width="175" align="center">글자</th><th align="center">제시시간</th><th align="center">글자 난이도 </th></tr></thead><tbody><tr><td align="center">레벨</td><td align="center">글자</td><td align="center">제시시간</td><td align="center">글자 난이도 </td></tr><tr><td align="center">1</td><td align="center">3</td><td align="center">0.5초</td><td align="center">쉬움 </td></tr><tr><td align="center">2</td><td align="center">3</td><td align="center">0.4초</td><td align="center">쉬움</td></tr><tr><td align="center">3</td><td align="center">3</td><td align="center">0.3초</td><td align="center">중간</td></tr><tr><td align="center">4</td><td align="center">4</td><td align="center">0.3초</td><td align="center">중간 </td></tr><tr><td align="center">5</td><td align="center">4</td><td align="center">0.25초</td><td align="center">중간 </td></tr><tr><td align="center">6</td><td align="center">4</td><td align="center">0.2초</td><td align="center">중간 </td></tr><tr><td align="center">7</td><td align="center">5</td><td align="center">0.2초</td><td align="center">어려움 </td></tr><tr><td align="center">8</td><td align="center">5</td><td align="center">0.15초</td><td align="center">어려움 </td></tr><tr><td align="center">9</td><td align="center">6</td><td align="center">0.15초</td><td align="center">어려움 </td></tr><tr><td align="center">10</td><td align="center">7</td><td align="center">0.15초</td><td align="center">어려움 </td></tr><tr><td align="center">11</td><td align="center">8</td><td align="center">0.15초</td><td align="center">어려움 </td></tr><tr><td align="center">12</td><td align="center">9</td><td align="center">0.15초</td><td align="center">어려움 </td></tr><tr><td align="center">13</td><td align="center">10</td><td align="center">0.15초</td><td align="center">어려움 </td></tr></tbody></table>
 
@@ -44,6 +44,6 @@ description: Visual span은 한 눈에 처리하는 단어의 수 (시각폭 vis
 
 ## 점수 획득 기준
 
-본 트레이닝은 정답을 맞춘 비율에 따라 점수가 획득됩니다.&#x20;
+본 훈련은 정답을 맞춘 비율에 따라 점수가 획득됩니다.&#x20;
 
 * 하나도 못 맞추면 -20점, 모두 맞추면 100점이 획득됩니다.
