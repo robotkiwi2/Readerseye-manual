@@ -107,7 +107,6 @@
     * [Visual Span](training/types/visual-span.md)
     * [Trail Making Test](training/types/trail-making-test.md)
     * [Stroop Test](training/types/stroop-test.md)
-    * [RSVP](training/types/rsvp-1.md)
   * [문법 훈련](training/types/grammar/README.md)
     * [단어기능 구분](training/types/grammar/word_function.md)
     * [단어의 품사 구분](training/types/grammar/word_pos.md)
