@@ -8,6 +8,22 @@ description: 직선 추적 훈련은 시선을 일정한 속도로 직선을 따
 
 직선 추적 훈련은 화면 위의 일정한 경로를 따라 시선을 부드럽게 움직이는 능력을 개발하는 훈련입니다. 이는 읽기 과정에서 필요한 기본적인 시선 이동 능력을 강화합니다.
 
+### 인지검사와의 연결
+
+이 훈련은 인지검사의 다음 검사와 연관됩니다:
+
+- **도약안구운동 (Saccade)**: 정확하고 안정적인 목표물 도약 능력을 향상시킵니다.
+
+{% content-ref url="../../screening/types/saccade.md" %}
+[도약안구운동 검사 보기](../../screening/types/saccade.md)
+{% endcontent-ref %}
+
+- **안구통제검사 (Anti-saccade)**: 자극에 대한 자동 반응을 억제하고 의도적인 시선 이동 능력을 강화합니다.
+
+{% content-ref url="../../screening/types/anti-saccade.md" %}
+[안구통제검사 보기](../../screening/types/anti-saccade.md)
+{% endcontent-ref %}
+
 ## 훈련의 목적
 
 - **안정적인 시선 이동**: 일정한 속도로 시선을 움직이는 능력 개발
