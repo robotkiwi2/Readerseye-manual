@@ -93,6 +93,7 @@
     * [빠르게 읽기](training/types/rsvp.md)
     * [의미덩이 끊어읽기](training/types/chunking.md)
     * [순서 맞추기](training/types/word-ordering.md)
+    * [글 읽기](training/types/textbook.md)
   * [인지영역훈련](training/types/cognitive-training.md)
     * [한눈에 세기](training/types/visual-counting.md)
     * [한눈에 읽기](training/types/visual-span.md)
