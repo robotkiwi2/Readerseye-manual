@@ -78,16 +78,6 @@
   * [우수한 결과와 비교하기](reading_eyetracking/reading_result/compare_result.md)
   * [전후 개선 비교하기](reading_eyetracking/reading_result/improvement.md)
 
-## 인지 검사 <a href="#screening" id="screening"></a>
-
-* [인지 검사란?](screening/what_is_it.md)
-* [인지운동 검사의 종류](screening/types/README.md)
-  * [도약안구운동 Saccade](screening/types/saccade.md)
-  * [추적 안구운동 Pursuit](screening/types/pursuit.md)
-  * [안구통제검사 Anti-saccade](screening/types/anti-saccade.md)
-  * [사회적 신호 탐지](screening/types/social_signal_detection.md)
-* [인지검사 결과 보기](screening/result_screening.md)
-
 ## 훈련
 
 * [훈련이란?](training/what_is_training.md)
@@ -124,6 +114,16 @@
     * [수평 도약 운동](training/eye-training/horizontal-saccade.md)
   * [시선클리닉](training/gaze-clinic/README.md)
 * [훈련 수행 보고서](training/report.md)
+
+## 인지 검사 <a href="#screening" id="screening"></a>
+
+* [인지 검사란?](screening/what_is_it.md)
+* [인지운동 검사의 종류](screening/types/README.md)
+  * [도약안구운동 Saccade](screening/types/saccade.md)
+  * [추적 안구운동 Pursuit](screening/types/pursuit.md)
+  * [안구통제검사 Anti-saccade](screening/types/anti-saccade.md)
+  * [사회적 신호 탐지](screening/types/social_signal_detection.md)
+* [인지검사 결과 보기](screening/result_screening.md)
 
 ***
 
