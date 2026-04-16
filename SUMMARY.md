@@ -1,0 +1,167 @@
+# Table of contents
+
+* [Reader's Eye란?](README.md)
+  * [리더스아이의 구성](master/overview.md)
+  * [리더스아이의 활용](master/applications.md)
+  * [누가 시선추적을 할 수 있나요?](master/user.md)
+
+## 시작하기 <a href="#getting_start" id="getting_start"></a>
+
+* [가입하기](getting_start/join.md)
+* [구독/결제 관리 하기](getting_start/managing_subscription.md)
+* [제어 패널과 조직도](getting_start/contorl_panel/README.md)
+  * [학생 등록하기](getting_start/contorl_panel/adding_new_user.md)
+  * [선생님 등록하기](getting_start/contorl_panel/submanager.md)
+  * [조직도 차트](getting_start/contorl_panel/undefined.md)
+* [기능별 관리](getting_start/function_tabs/README.md)
+  * [읽기진단 탭](getting_start/function_tabs/reading.md)
+  * [훈련 탭](getting_start/function_tabs/training/README.md)
+    * [명예의 전당](getting_start/function_tabs/training/training_ranking.md)
+  * [인지검사 탭](getting_start/function_tabs/screening.md)
+  * [자유글 탭](getting_start/function_tabs/custom_pdf.md)
+  * [정보 탭](getting_start/function_tabs/information.md)
+  * [소통](getting_start/function_tabs/communication.md)
+* [진단사이트(키오스크) 설정](getting_start/kiosk_setting/README.md)
+  * [등록 모드 설정](getting_start/kiosk_setting/kiosk_enrolled_mode.md)
+  * [익명 모드 설정](getting_start/kiosk_setting/kiosk_anonym_mode.md)
+* [구독하기](getting_start/subscription.md)
+
+## 시선측정 진단하기 <a href="#kiosk" id="kiosk"></a>
+
+* [장치 설치](kiosk/installation/README.md)
+  * [장치 설치하기](kiosk/installation/set_eyetracker.md)
+  * [디스플레이 설정하기](kiosk/installation/display_setting.md)
+  * [연결 프로그램 설치하기(1회)](kiosk/installation/1.md)
+  * [KIOSK(진단사이트) 로그인](kiosk/installation/kiosk.md)
+  * [모니터 폭 설정하기](kiosk/installation/undefined.md)
+* [진단 사이트(KIOSK) 시작하기](kiosk/start_kiosk/README.md)
+  * [사용자 선택](kiosk/start_kiosk/undefined.md)
+  * [시선추적 기능 선택](kiosk/start_kiosk/undefined-1.md)
+  * [설정 페이지로 돌아가기](kiosk/start_kiosk/undefined-2.md)
+* [읽기 능력 진단하기](kiosk/assessment/README.md)
+  * [진단글 선택](kiosk/assessment/do_test.md)
+  * [시선 보정하기](kiosk/assessment/undefined.md)
+  * [읽기능력 진단 수행](kiosk/assessment/undefined-4.md)
+  * [키오스크 진단 결과 보기](kiosk/assessment/kiosk_result.md)
+* [인지 검사 하기](kiosk/do_screening.md)
+* [자유글 시선측정](kiosk/undefined.md)
+* [인지훈련 하기](kiosk/undefined-1.md)
+* [눈 훈련 하기](kiosk/undefined-2.md)
+
+## 시선추적 읽기능력 진단 <a href="#reading_eyetracking" id="reading_eyetracking"></a>
+
+* [시선과 읽기능력의 관계](reading_eyetracking/gaze-features/README.md)
+  * [읽기의 정신적 프로세스](reading_eyetracking/gaze-features/undefined.md)
+  * [눈은 왜 움직일까?](reading_eyetracking/gaze-features/undefined-1.md)
+  * [글을 읽는 시선의 움직임](reading_eyetracking/gaze-features/undefined-2.md)
+  * [응시 시간이 짧고, 응시비율이 높아야 합니다.](reading_eyetracking/gaze-features/fixation.md)
+  * [시선 도약폭이 넓어야 합니다.](reading_eyetracking/gaze-features/saccade.md)
+  * [시각 폭이 커야 합니다.](reading_eyetracking/gaze-features/untitled.md)
+  * [시선 역행이 적어야 합니다.](reading_eyetracking/gaze-features/type_of_saccade.md)
+  * [읽기 속도가 빨라야 합니다.](reading_eyetracking/gaze-features/undefined-2-1.md)
+  * [문장을 뛰어넘지 않아야 합니다.](reading_eyetracking/gaze-features/.-1.md)
+  * [중요한 정보를 빠르게 찾습니다.](reading_eyetracking/gaze-features/scan_information.md)
+  * [눈깜박임](reading_eyetracking/gaze-features/blink.md)
+  * [눈동자의 크기 변화](reading_eyetracking/gaze-features/pupil-diameter.md)
+* [읽기 진단 결과 보기](reading_eyetracking/reading_result/README.md)
+  * [시선 정보 분석 (시선 기록)](reading_eyetracking/reading_result/gaze_view.md)
+  * [총평](reading_eyetracking/reading_result/undefined.md)
+  * [종합 요약](reading_eyetracking/reading_result/reading_summary.md)
+  * [종합 분석](reading_eyetracking/reading_result/total_analysis.md)
+  * [시선 도약폭 분석](reading_eyetracking/reading_result/gaze_analysis.md)
+  * [응시 시간 분석](reading_eyetracking/reading_result/gaze_analysis-1.md)
+  * [시선 이동 종류 분석](reading_eyetracking/reading_result/gaze_analysis-2.md)
+  * [정보 탐색  분석](reading_eyetracking/reading_result/gaze_analysis-3.md)
+  * [문제 풀이  분석](reading_eyetracking/reading_result/gaze_analysis-4.md)
+  * [보고서 출력 (PDF 다운)](reading_eyetracking/reading_result/export_report.md)
+  * [읽기진단 보고서 공유하기](reading_eyetracking/reading_result/undefined-1.md)
+  * [우수한 결과와 비교하기](reading_eyetracking/reading_result/compare_result.md)
+  * [전후 개선 비교하기](reading_eyetracking/reading_result/improvement.md)
+
+## 인지 검사 <a href="#screening" id="screening"></a>
+
+* [인지 검사란?](screening/what_is_it.md)
+* [인지운동 검사의 종류](screening/types/README.md)
+  * [도약안구운동 Saccade](screening/types/saccade.md)
+  * [추적 안구운동 Pursuit](screening/types/pursuit.md)
+  * [안구통제검사 Anti-saccade](screening/types/anti-saccade.md)
+  * [사회적 신호 탐지](screening/types/social_signal_detection.md)
+* [인지검사 결과 보기](screening/result_screening.md)
+
+## Training 인지훈련
+
+* [트레이닝이란?](training/what_is_training.md)
+* [트레이닝의 효과](training/training_benefit.md)
+* [트레이닝 자동 할당](training/undefined.md)
+* [트레이닝 수동 할당](training/setting.md)
+* [훈련(트레이닝) 종류](training/types/README.md)
+  * [Sentence Masking](training/types/sentence-masking.md)
+  * [Keyword Finding](training/types/keyword-finding.md)
+  * [Category Finding](training/types/category-finding.md)
+  * [Visual Counting](training/types/visual-counting.md)
+  * [RSVP](training/types/rsvp.md)
+  * [의미덩이 끊어읽기 Chunking](training/types/chunking.md)
+  * [Visual Span](training/types/visual-span.md)
+  * [Trail Making Test](training/types/trail-making-test.md)
+  * [Word Ordering](training/types/word-ordering.md)
+  * [Stroop Test](training/types/stroop-test.md)
+  * [RSVP](training/types/rsvp-1.md)
+  * [문법 훈련](training/types/undefined/README.md)
+    * [단어기능 구분](training/types/undefined/undefined.md)
+    * [단어의 품사 구분](training/types/undefined/undefined-1.md)
+    * [단어의 성분 구분](training/types/undefined/undefined-2.md)
+* [Eye training](training/eye-training/README.md)
+  * [Saccade Tracking](training/eye-training/saccade-tracking.md)
+  * [Pursuit Tracking](training/eye-training/pursuit-tracking.md)
+  * [Anti-saccade Tracking](training/eye-training/anti-saccade-tracking.md)
+  * [Sentence Tracking](training/eye-training/sentence-tracking.md)
+  * [Horizontal Jump](training/eye-training/horizontal-jump.md)
+  * [Vertical Jump](training/eye-training/vertical-jump.md)
+  * [Horizontal Saccade](training/eye-training/horizontal-saccade.md)
+* [트레이닝 수행 보고서](training/report.md)
+
+***
+
+* [학생 사이트](student/README.md)
+  * [트레이닝 하기](student/training.md)
+  * [읽기능력 진단 결과 보기](student/reading.md)
+  * [안구운동 검사 결과보기](student/screening.md)
+  * [자유글 측정 결과 보기](student/pdf.md)
+  * [내 정보 보기](student/my.md)
+
+## 자유글 시선측정 <a href="#free_eyetracking" id="free_eyetracking"></a>
+
+* [자유글 시선측정이란?](free_eyetracking/what_is.md)
+* [자유글 문서 등록하기](free_eyetracking/new_free_pdf.md)
+* [자유글 시선측정 결과 보기](free_eyetracking/result_pdf.md)
+
+## 정보 <a href="#information" id="information"></a>
+
+* [FAQ](information/faq.md)
+* [이용 약관](information/terms.md)
+* [배송 교환 환불 취소 정책](information/policy.md)
+* [개인정보 처리방침](information/per.md)
+
+## 관리하기 <a href="#managing" id="managing"></a>
+
+* [진단글 직접 생성하기](managing/undefined.md)
+* [조직](managing/organization/README.md)
+  * [조직 생성하기](managing/organization/new.md)
+  * [조직정보 관리](managing/organization/manage.md)
+  * [Agency를 조직에 가입시키기](managing/organization/agency.md)
+  * [진단글 관리하기](managing/organization/custom_text.md)
+
+## 구버전 매뉴얼 <a href="#ver1" id="ver1"></a>
+
+* [대쉬 보드 (ver.1)](ver1/dash-board.md)
+* [시선보정 (ver. 1)](ver1/calibration/README.md)
+  * [시선 보정하기 v2](ver1/calibration/v2.md)
+* [장비 설치하기 (Ver. 1)](ver1/device_setting.md)
+* [첫 화면(버전1)](ver1/welcome_page.md)
+* [읽기능력 진단 시작 (ver.1)](ver1/ver.1/README.md)
+  * [시선읽기능력 진단 시작](ver1/ver.1/undefined.md)
+* [트레이닝 하기(ver.1)](ver1/howtouse/README.md)
+  * [트레이닝 관리하기(ver.1)](ver1/howtouse/manage-training.md)
+* [자유글 문서 등록하기(ver.1)](ver1/ver.1-1.md)
+* [자유글 시선측정하기(ver.1)](ver1/ver.1-2.md)
+* [시선추적 : 읽기를 연구하는 과학적 방법](ver1/undefined.md)
