@@ -78,7 +78,7 @@
   * [우수한 결과와 비교하기](reading_eyetracking/reading_result/compare_result.md)
   * [전후 개선 비교하기](reading_eyetracking/reading_result/improvement.md)
 
-## 훈련
+## 훈련 <a href="#training" id="training"></a>
 
 * [훈련이란?](training/what_is_training.md)
 * [훈련의 효과](training/training_benefit.md)
