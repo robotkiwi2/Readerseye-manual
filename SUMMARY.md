@@ -114,6 +114,11 @@
     * [수직 줄바꿈](training/eye-training/vertical-jump.md)
     * [수평 도약 운동](training/eye-training/horizontal-saccade.md)
   * [시선클리닉](training/gaze-clinic/README.md)
+    * [직선 추적 훈련](training/gaze-clinic/linear-tracking.md)
+    * [곡선 추적 훈련](training/gaze-clinic/curved-tracking.md)
+    * [반응 통제 훈련](training/gaze-clinic/response-control.md)
+    * [수동적 공동 주의](training/gaze-clinic/passive-joint-attention.md)
+    * [능동적 공동 주의](training/gaze-clinic/active-joint-attention.md)
 * [훈련 수행 보고서](training/report.md)
 
 ## 인지 검사 <a href="#screening" id="screening"></a>
