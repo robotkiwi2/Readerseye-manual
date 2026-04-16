@@ -125,6 +125,12 @@
   * [사회적 신호 탐지](screening/types/social_signal_detection.md)
 * [인지검사 결과 보기](screening/result_screening.md)
 
+## 자유글 시선측정 <a href="#free_eyetracking" id="free_eyetracking"></a>
+
+* [자유글 시선측정이란?](free_eyetracking/what_is.md)
+* [자유글 문서 등록하기](free_eyetracking/new_free_pdf.md)
+* [자유글 시선측정 결과 보기](free_eyetracking/result_pdf.md)
+
 ***
 
 * [학생 사이트](student/README.md)
@@ -133,12 +139,6 @@
   * [안구운동 검사 결과보기](student/screening.md)
   * [자유글 측정 결과 보기](student/pdf.md)
   * [내 정보 보기](student/my.md)
-
-## 자유글 시선측정 <a href="#free_eyetracking" id="free_eyetracking"></a>
-
-* [자유글 시선측정이란?](free_eyetracking/what_is.md)
-* [자유글 문서 등록하기](free_eyetracking/new_free_pdf.md)
-* [자유글 시선측정 결과 보기](free_eyetracking/result_pdf.md)
 
 ## 정보 <a href="#information" id="information"></a>
 
