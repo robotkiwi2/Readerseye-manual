@@ -124,7 +124,7 @@
 ## 인지 검사 <a href="#screening" id="screening"></a>
 
 * [인지 검사란?](screening/what_is_it.md)
-* [인지운동 검사의 종류](screening/types/README.md)
+* [인지검사](screening/types/README.md)
   * [도약안구운동 Saccade](screening/types/saccade.md)
   * [추적 안구운동 Pursuit](screening/types/pursuit.md)
   * [안구통제검사 Anti-saccade](screening/types/anti-saccade.md)

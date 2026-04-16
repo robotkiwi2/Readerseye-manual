@@ -35,3 +35,19 @@ description: Social signal detection
 ### 사회적 관계 - 배경
 
 <figure><img src="../../.gitbook/assets/image (654).png" alt="" width="563"><figcaption></figcaption></figure>
+
+## 어떻게 개선할 수 있나요?
+
+사회적 신호 탐지 능력을 향상시키고 타인의 관심사를 이해하는 능력을 개발하기 위해 다음의 시선클리닉 훈련을 추천합니다:
+
+{% content-ref url="../../training/gaze-clinic/passive-joint-attention.md" %}
+[수동적 공동 주의](../../training/gaze-clinic/passive-joint-attention.md)
+{% endcontent-ref %}
+
+다른 사람의 시선 방향을 감지하고 따라가는 능력을 개발하는 훈련입니다. 타인의 시선 신호를 인식하는 기본적인 사회적 상호작용 능력을 강화합니다.
+
+{% content-ref url="../../training/gaze-clinic/active-joint-attention.md" %}
+[능동적 공동 주의](../../training/gaze-clinic/active-joint-attention.md)
+{% endcontent-ref %}
+
+자신의 관심사로 타인의 시선을 의도적으로 유도하는 능력을 개발하는 훈련입니다. 효과적인 사회적 의사소통과 공동 주의 형성 능력을 향상시킵니다.

@@ -73,5 +73,17 @@
 
 ## 어떻게 개선할 수 있나요?
 
-즉각적 피드백이 있는 도안구운동(eye-training의 saccade tracking) 훈련을 합니다.
+도약안구운동의 정확성과 속도를 개선하기 위해 다음의 시선클리닉 훈련을 추천합니다:
+
+{% content-ref url="../../training/gaze-clinic/linear-tracking.md" %}
+[직선 추적 훈련](../../training/gaze-clinic/linear-tracking.md)
+{% endcontent-ref %}
+
+정확하고 안정적인 목표물 추적 능력을 개발하기 위해 직선 경로를 따라 시선을 이동시키는 훈련입니다.
+
+{% content-ref url="../../training/gaze-clinic/response-control.md" %}
+[반응 통제 훈련](../../training/gaze-clinic/response-control.md)
+{% endcontent-ref %}
+
+자동적인 시선 반응을 억제하고 의도적이고 통제된 시선 이동 능력을 강화하는 훈련입니다.
 

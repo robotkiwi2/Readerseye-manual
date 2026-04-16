@@ -67,5 +67,12 @@
 
 ## 어떻게 개선할 수 있나요?
 
-* 즉각적 피드백이 있는 추적안구운동 훈련(eye-training의 Pursuit tracking)을 합니다.&#x20;
-* 집중력을 기릅니다.
+추적안구운동의 부드러움과 정확성을 개선하기 위해 다음의 시선클리닉 훈련을 추천합니다:
+
+{% content-ref url="../../training/gaze-clinic/curved-tracking.md" %}
+[곡선 추적 훈련](../../training/gaze-clinic/curved-tracking.md)
+{% endcontent-ref %}
+
+복잡한 곡선 경로를 따라 시선을 움직이는 능력을 개발하여 시선의 유연성과 정확성을 향상시키는 훈련입니다.
+
+또한 집중력을 향상시키고 부드러운 추적 능력을 강화하는 것이 도움이 됩니다.
