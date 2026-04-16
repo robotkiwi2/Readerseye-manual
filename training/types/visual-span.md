@@ -2,7 +2,7 @@
 description: Visual span은 한 눈에 처리하는 단어의 수 (시각폭 visual span)을 넓히는 훈련입니다
 ---
 
-# Visual Span
+# 한눈에 읽기
 
 ![](<../../.gitbook/assets/image (134).png>)
 

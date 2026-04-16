@@ -2,7 +2,7 @@
 description: 센텐스 마스킹은 한문장씩 제시되는 글을 읽는 훈련입니다.
 ---
 
-# Sentence Masking
+# 차례차례 읽기
 
 ![](<../../.gitbook/assets/image (65).png>)
 

@@ -2,7 +2,7 @@
 description: 키워드 파인딩은 텍스트에서 빠르게 키워드를 찾는 훈련입니다.
 ---
 
-# Keyword Finding
+# 키워드 찾기
 
 ![](<../../.gitbook/assets/image (102).png>)
 

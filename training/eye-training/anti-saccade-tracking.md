@@ -1,4 +1,4 @@
-# Anti-saccade Tracking
+# 선택적 시선통제 게임
 
 Anti-saccade Tracking은 Anti-saccade 검사에 대응하기 위해 고안되었습니다.
 

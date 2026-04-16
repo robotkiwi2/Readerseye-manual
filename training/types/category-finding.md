@@ -2,7 +2,7 @@
 description: 키워드 파인딩은 텍스트에서 빠르게 카테고리 단어를 찾는 훈련입니다.
 ---
 
-# Category Finding
+# 카테고리 찾기
 
 ![](<../../.gitbook/assets/image (216).png>)
 
