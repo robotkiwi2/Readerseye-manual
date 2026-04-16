@@ -100,7 +100,7 @@
     * [순서 잇기](training/types/trail-making-test.md)
     * [스트룹 테스트](training/types/stroop-test.md)
   * [문법영역훈련](training/types/grammar/README.md)
-    * [단어기능 구분](training/types/grammar/word_function.md)
+    * [단어의 기능 구분](training/types/grammar/word_function.md)
     * [단어의 품사 구분](training/types/grammar/word_pos.md)
     * [단어의 성분 구분](training/types/grammar/word_component.md)
 * [눈 훈련](training/eye-training/README.md)
