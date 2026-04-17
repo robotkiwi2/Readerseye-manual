@@ -20,21 +20,17 @@ description: Social signal detection
 
 <figure><img src="../../.gitbook/assets/image (658).png" alt=""><figcaption></figcaption></figure>
 
-## 사회적 신호 이미지
+## 사회적 신호 탐지 검사
 
-사회적 신호탐지를 위하여 다음의 세가지 이미지를 제시합니다.
+사회적 신호 탐지 검사는 다음의 4가지 검사로 구성됩니다.
 
-### 인간 - 비인간 이미지
+### 1) 사회적 신호 선호 검사
 
-<figure><img src="../../.gitbook/assets/image (656).png" alt="" width="563"><figcaption></figcaption></figure>
+### 2) 표정 탐지 측정
 
-### 사회적 의사소통
+### 3) 공동 주의 검사
 
-<figure><img src="../../.gitbook/assets/image (655).png" alt="" width="563"><figcaption></figcaption></figure>
-
-### 사회적 관계 - 배경
-
-<figure><img src="../../.gitbook/assets/image (654).png" alt="" width="563"><figcaption></figcaption></figure>
+### 4) 사회적 상호작용 상황측정
 
 ## 어떻게 개선할 수 있나요?
 
