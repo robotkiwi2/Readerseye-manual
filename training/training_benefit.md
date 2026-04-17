@@ -22,19 +22,3 @@ description: 진단을 기반으로, 매일매일 간단한 훈련을 통하여 
 
 ![](<../.gitbook/assets/image (233).png>)
 
-## 훈련은 기관 또는 사용자(user)이 사용 가능합니다.
-
-기관에 소속된 사용자(user)는 Reader's Eye 사이트에 접속하여, 좌측 메뉴에서 Training을 선택하여 자신의 기록을 보거나, 훈련을 수행할 수 있습니다.
-
-{% hint style="info" %}
-User가 사용하기 위해서는 접속 ID와 비밀번호가 필요합니다. 이는 소속된 기관(agency)에 문의해야 합니다.
-{% endhint %}
-
-## 웹훈련은 모바일로도 가능합니다.
-
-웹훈련은 웹기반이므로 PC, Mac, 타블렛, 스마트폰 등으로 사용할 수 있습니다.
-
-{% hint style="info" %}
-Web training을 하기 위해 시선추적장치는 필요하지 않지만, Eye training을 하기 위해서는 시선추적장치가 필요합니다.
-{% endhint %}
-
