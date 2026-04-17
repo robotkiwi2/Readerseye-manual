@@ -85,7 +85,7 @@
 * [훈련 할당](training/assignment/README.md)
   * [자동 할당](training/auto_assign.md)
   * [수동 할당](training/setting.md)
-* [인지 훈련](training/types/README.md)
+* [웹훈련](training/types/README.md)
   * [언어영역훈련](training/types/reading-training.md)
     * [차례차례 읽기](training/types/sentence-masking.md)
     * [키워드 찾기](training/types/keyword-finding.md)
