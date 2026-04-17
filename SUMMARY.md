@@ -45,7 +45,7 @@
   * [키오스크 진단 결과 보기](kiosk/assessment/kiosk_result.md)
 * [인지 검사 하기](kiosk/do_screening.md)
 * [자유글 시선측정](kiosk/free_eyetracking.md)
-* [인지훈련 하기](kiosk/do_training.md)
+* [웹훈련 하기](kiosk/do_training.md)
 * [눈 훈련 하기](kiosk/eye_training.md)
 
 ## 시선추적 읽기능력 진단 <a href="#reading_eyetracking" id="reading_eyetracking"></a>
