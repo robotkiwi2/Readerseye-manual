@@ -13,6 +13,7 @@
   * [학생 등록하기](getting_start/contorl_panel/adding_new_user.md)
   * [선생님 등록하기](getting_start/contorl_panel/submanager.md)
   * [조직도 차트](getting_start/contorl_panel/org_chart.md)
+  * [조회기간 설정](getting_start/contorl_panel/date_range.md)
 * [기능별 관리](getting_start/function_tabs/README.md)
   * [읽기진단 탭](getting_start/function_tabs/reading.md)
   * [훈련 탭](getting_start/function_tabs/training/README.md)
