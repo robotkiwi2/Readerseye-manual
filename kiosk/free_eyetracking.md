@@ -1,5 +1,13 @@
 # 자유글 시선측정
 
+{% hint style="info" %}
+자유글 시선측정이 무엇인지, 문서를 어떻게 등록하고 결과를 어떻게 보는지는 아래 문서를 참고하세요.
+
+* [자유글 시선측정이란?](../free_eyetracking/what_is.md)
+* [자유글 문서 등록하기](../free_eyetracking/new_free_pdf.md)
+* [자유글 시선측정 결과 보기](../free_eyetracking/result_pdf.md)
+{% endhint %}
+
 ## 수행할 기능 선택
 
 <figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
