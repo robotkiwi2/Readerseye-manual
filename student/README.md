@@ -2,7 +2,7 @@
 
 학생들은 전용의 학생 사이트로 접속할 수 있습니다.
 
-www.eyestudent.com
+student.readerseye.com
 
 PC, 타블렛, 스마트폰에서 사용가능하며, 타블렛/스마트폰에 최적화되어 있습니다.
 
