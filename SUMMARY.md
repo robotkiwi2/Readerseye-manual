@@ -79,6 +79,12 @@
   * [우수한 결과와 비교하기](reading_eyetracking/reading_result/compare_result.md)
   * [전후 개선 비교하기](reading_eyetracking/reading_result/improvement.md)
 
+## 시선추적 읽기능력 진단 2 <a href="#reading_eyetracking2" id="reading_eyetracking2"></a>
+
+* [읽기진단2 결과 보기](reading_eyetracking2/README.md)
+  * [관리자 페이지에서 보기](reading_eyetracking2/result_admin.md)
+  * [진단 보고서에서 보기](reading_eyetracking2/result_report.md)
+
 ## 훈련 <a href="#training" id="training"></a>
 
 * [훈련이란?](training/what_is_training.md)
