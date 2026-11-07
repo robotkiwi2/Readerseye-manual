@@ -84,6 +84,7 @@
 * [읽기진단2 결과 보기](reading_eyetracking2/README.md)
   * [관리자 페이지에서 보기](reading_eyetracking2/result_admin.md)
   * [진단 보고서에서 보기](reading_eyetracking2/result_report.md)
+  * [읽기 시선 재생 뷰어 사용하기](reading_eyetracking2/gaze_viewer.md)
 
 ## 훈련 <a href="#training" id="training"></a>
 
