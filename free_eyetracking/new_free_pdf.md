@@ -47,7 +47,7 @@ PDF 파일만 등록할 수 있으며, **최대 25쪽**까지 가능합니다. 2
 
 ## 편집 화면 구성
 
-<figure><img src="../.gitbook/assets/free2_edit.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/free2_edit.png" alt=""><figcaption></figcaption></figure>
 
 왼쪽에는 문서 정보를 입력하는 패널이, 가운데에는 문서와 영역이 표시됩니다. 맨 아래에는 쪽 이동 버튼과 쪽 목록이 있습니다. 항목 이름 옆의 \[?] 아이콘에 마우스를 올리면 설명이 표시됩니다.
 
