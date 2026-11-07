@@ -136,6 +136,7 @@
 
 * [자유글 시선측정이란?](free_eyetracking/what_is.md)
 * [자유글 문서 등록하기](free_eyetracking/new_free_pdf.md)
+* [자유글 영역 설정하기](free_eyetracking/set_aoi.md)
 * [자유글 시선측정 결과 보기](free_eyetracking/result_pdf.md)
 
 ***
